@@ -1,2 +1,5 @@
 # learn-angular2
-Learn Angular2
+
+https://angular.io/docs/ts/latest/quickstart.html
+
+
